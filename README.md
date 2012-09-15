@@ -42,7 +42,7 @@ Install
 Setup. Create file on your home:
 	
 	$ vim ~/.delicious_config
-	$ username: "your_delicious_user_name"
+	  username: "your_delicious_user_name"
 	  password: "your_delicious_password"
 
 Run:
