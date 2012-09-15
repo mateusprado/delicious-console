@@ -57,3 +57,6 @@ Fetch all bookmarks:
 To add bookmark:
 
 	$ delicious add htt://locaweb.com.br Locaweb
+
+## Copyright
+Copyright © 2012 Mateus Prado.
