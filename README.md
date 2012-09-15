@@ -8,7 +8,7 @@ Store yours URL's on Delicious using your terminal console
 
  using:
 	
-	Thor - used to create executables and tasks.
+	Thor - to create executables and tasks.
 	
 
 ## CURRENT FEATURES
