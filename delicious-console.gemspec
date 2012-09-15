@@ -5,13 +5,13 @@
 
 Gem::Specification.new do |s|
   s.name = "delicious-console"
-  s.version = "0.0.1"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Mateus Prado"]
   s.date = "2012-09-15"
 	s.default_executable = %q{delicious}
-  s.description = "%Q{Store yours URL's on Delicious using your terminal console}"
+  s.description = %q{Store yours URL's on Delicious using your terminal console}
   s.email = "mateus@mateusprado.com"
 	s.executables = ["delicious"]
   s.extra_rdoc_files = [
