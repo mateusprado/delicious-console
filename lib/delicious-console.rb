@@ -1,0 +1,10 @@
+require 'rubygems'
+require 'net/https'
+require 'thor'
+require 'rexml/document'
+require 'yaml'
+
+require 'delicious-console/authentication'
+require 'delicious-console/parser'
+require 'delicious-console/client'
+require 'delicious-console/console'
