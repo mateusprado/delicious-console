@@ -50,7 +50,7 @@ To view all options:
 	
 	$ delicious
 
-To view all posts: 
+Fetch all bookmarks: 
 	
 	$ delicious posts
 	
